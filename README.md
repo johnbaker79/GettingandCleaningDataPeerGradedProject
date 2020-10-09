@@ -12,4 +12,4 @@
 
 # Extract data in selected columns, and merge x, y(activity) and subject data. Replace y(activity) column to it's name by refering to activity labels.
 
-# Generate #2 dataframe for 'tidy dataset' that consists of the average (mean) of each variable for each subject and each activity. Assign to file - tidy_dataset.txt.
+# Generate a second dataframe for 'tidy dataset'. Assign to file - tidy_dataset.txt.
